@@ -1,0 +1,3 @@
+node-telegram-bot-api: For interacting with the Telegram Bot API.
+
+express: For running a simple web server.
